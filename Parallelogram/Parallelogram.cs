@@ -70,7 +70,7 @@ namespace Parallelogram
             var c = BO;
 
             var s = (a + b + c) / 2;
-            var h = Math.Sqrt(2 * (s * (s - a) * (s - b) * (s - c))) / a;
+            var h =2 * Math.Sqrt(2 * (s * (s - a) * (s - b) * (s - c))) / a;
 
             var centerX = (_points[0].X + _points[1].X + _points[2].X + _points[3].X) / 4;
             var centerY = (_points[0].Y + _points[1].Y + _points[2].Y + _points[3].Y) / 4;
