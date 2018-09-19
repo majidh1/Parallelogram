@@ -9,6 +9,7 @@ Draw a parallelogram with user click and a circle inside (center exactly)
 
 First, for each click within the specified range, a point is inserted, which is drawn after three clicks of an equilateral trapezoid, with a circle in its center. You can change the points by dragging and dropping the points. , Which causes the shape to change at the moment of the form, and always the circle remains in the center of the shape.
 
+![image](https://github.com/majidh1/Parallelogram/blob/master/assets/ScreenGif.gif?raw=true)
 
 # چه کاری انجام می‌شود؟
 
